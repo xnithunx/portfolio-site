@@ -1,7 +1,7 @@
 /* Latest Blog Area css
 ============================================================================================ */
 .latest_blog_area{
-	
+
 }
 .latest_blog_inner{
 	margin-bottom: -30px;
@@ -146,7 +146,8 @@
     }
     &:hover{
         .categories_details{
-			background-image: -moz-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
+			backgroun
+			image: -moz-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
 			background-image: -webkit-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
 			background-image: -ms-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
 			opacity: 0.851;
@@ -160,7 +161,7 @@
 .blog_area{
 }
 .blog_left_sidebar{
-    
+
 }
 .blog_item{
     margin-bottom: 40px;
@@ -334,7 +335,7 @@
             & + .post_item{
                 margin-top: 20px;
             }
-        }   
+        }
     }
     .post_category_widget{
         .cat-list{
@@ -347,7 +348,7 @@
                     line-height: 20px;
                     color: #777;
                     p{
-                        margin-bottom: 0px; 
+                        margin-bottom: 0px;
                     }
                 }
                 & + li{
@@ -365,7 +366,7 @@
     .newsletter_widget{
         text-align: center;
         p{
-            
+
         }
         .form-group{
             margin-bottom: 8px;
